@@ -69,3 +69,9 @@ defaults:
       type: "posts"
     values:
       permalink: ""
+
+# load future post
+future: true
+
+# timezone establish for better loading
+timezone: Asia/Kuala_Lumpur
