@@ -7,7 +7,7 @@ description: "Hudzaifah Hafiz Portfolio"
 keywords: "Hudzaifah Hafiz, Portfolios"
 skills: "Web Application Developer - Front End Developer - User Experience Designer"
 meta_author: Hudzaifah Hafiz
-meta_og_image: "/img/hudz_logo.png"
+meta_og_image: "img/hudz_logo.png"
 base_url: "https://hudz.github.io"
 favicon : "favicon.ico"
 
