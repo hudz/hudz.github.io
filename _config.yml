@@ -57,7 +57,7 @@ address:
   - line: Melaka, Malaysia
 
 # Credits content
-Copyleft: 'All right reserved, this is open source world.'
+credits: 'All right reserved, this is open source world.'
 
 # Build settings
 markdown: kramdown
