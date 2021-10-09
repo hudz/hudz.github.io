@@ -34,7 +34,7 @@ color:
 # Footer settings
 footer:
   copyright: Hudzaifah Hafiz
-  location: Melaka
+  location: Location
   social: Github
   credits: Credits
 
@@ -57,7 +57,7 @@ address:
   - line: Melaka, Malaysia
 
 # Credits content
-credits: 'All right reserved, this is open source world.'
+credits: 'All rights reserved, this is open source world.'
 
 # Build settings
 markdown: kramdown
